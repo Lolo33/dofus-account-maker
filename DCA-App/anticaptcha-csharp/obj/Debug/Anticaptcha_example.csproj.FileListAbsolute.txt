@@ -1,0 +1,8 @@
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\anticaptcha-csharp\obj\Debug\Anticaptcha_example.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\anticaptcha-csharp\bin\Debug\Anticaptcha_example.exe.config
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\anticaptcha-csharp\bin\Debug\Anticaptcha_example.exe
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\anticaptcha-csharp\bin\Debug\Anticaptcha_example.pdb
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\anticaptcha-csharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\anticaptcha-csharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\anticaptcha-csharp\obj\Debug\Anticaptcha_example.exe
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\anticaptcha-csharp\obj\Debug\Anticaptcha_example.pdb

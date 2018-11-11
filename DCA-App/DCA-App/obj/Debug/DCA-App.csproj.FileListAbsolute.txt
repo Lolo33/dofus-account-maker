@@ -1,0 +1,8 @@
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\DCA-App\bin\Debug\DCA-App.exe.config
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\DCA-App\bin\Debug\DCA-App.exe
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\DCA-App\bin\Debug\DCA-App.pdb
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\DCA-App\obj\Debug\DCA-App.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\DCA-App\obj\Debug\DCA_App.Properties.Resources.resources
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\DCA-App\obj\Debug\DCA-App.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\DCA-App\obj\Debug\DCA-App.exe
+C:\Users\Utilisateur\dofus-account-maker\DCA-App\DCA-App\obj\Debug\DCA-App.pdb
