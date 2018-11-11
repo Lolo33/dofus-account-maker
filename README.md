@@ -1,2 +1,1 @@
 # dofus-account-maker
-OhMyGodjTeLévio
